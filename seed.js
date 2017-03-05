@@ -1,7 +1,6 @@
 const Realm = require('realm');
 const moment = require('moment');
 const shortid = require('shortid');
-const constants = require('./constants');
 const bookSchema = require('./models/book');
 const tagSchema = require('./models/tag');
 
